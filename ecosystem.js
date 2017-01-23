@@ -10,5 +10,8 @@ require("can-view-import");
 require("can-zone");
 require("can-stream");
 require("can-define-stream");
+require("can-validate");
+require("can-validate-validatejs");
+require("can-define-validate-validatejs");
 
 module.exports = can;
